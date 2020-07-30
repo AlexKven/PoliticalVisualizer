@@ -3,11 +3,11 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.30114.105
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliticalVisualizer.Server", "PoliticalVisualizer\Server\PoliticalVisualizer.Server.csproj", "{2D2A30B5-6C74-4060-BCA5-8A5511EE6B15}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PoliticalVisualizer.Server", "PoliticalVisualizer\Server\PoliticalVisualizer.Server.csproj", "{2D2A30B5-6C74-4060-BCA5-8A5511EE6B15}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliticalVisualizer.Client", "PoliticalVisualizer\Client\PoliticalVisualizer.Client.csproj", "{77573AA3-787F-429D-A610-4ABD305F42A4}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PoliticalVisualizer.Client", "PoliticalVisualizer\Client\PoliticalVisualizer.Client.csproj", "{77573AA3-787F-429D-A610-4ABD305F42A4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoliticalVisualizer.Shared", "PoliticalVisualizer\Shared\PoliticalVisualizer.Shared.csproj", "{86288E0F-FC3C-40C9-8EFF-5F8DA2D404F8}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "PoliticalVisualizer.Shared", "PoliticalVisualizer\Shared\PoliticalVisualizer.Shared.csproj", "{86288E0F-FC3C-40C9-8EFF-5F8DA2D404F8}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
