@@ -1,0 +1,9 @@
+
+.vs/
+
+PoliticalVisualizer/Client/bin/
+PoliticalVisualizer/Client/obj/
+PoliticalVisualizer/Server/bin/
+PoliticalVisualizer/Server/obj/
+PoliticalVisualizer/Shared/bin/
+PoliticalVisualizer/Shared/obj/
